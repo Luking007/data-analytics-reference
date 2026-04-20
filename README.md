@@ -2,6 +2,7 @@
 By Oyewo Lukman Segun | TS Academy 2026 | Aviation & Operations Analytics
 Personal reference toolkit covering Excel, SQL, and Power BI DAX.
 Built alongside the TS Academy Data Analytics Programme (Feb – May 2026).
+
 📌 Table of Contents
 The Analytical Framework
 Data Cleaning Checklist
@@ -15,6 +16,7 @@ Power BI — DAX Formulas
 Excel vs SQL vs DAX — Side by Side
 KPI Formulas
 Portfolio Projects
+
 1. The Analytical Framework
 5 Questions to Ask Before Touching Any Data
 #
@@ -39,6 +41,7 @@ Finding → Recommendation Framework
 Code
 The Full Data Journey
 Code
+
 2. Data Cleaning Checklist
 Run through every column of every table before any analysis.
 Check 1 — Missing / NULL Values
@@ -69,6 +72,7 @@ Excel
 Check 8 — Referential Integrity (Orphan Records)
 Sql
 Excel
+
 3. Excel Formulas
 Lookup Formulas
 Excel
@@ -88,6 +92,7 @@ Conditional Logic Formulas
 Excel
 Financial / KPI Formulas
 Excel
+
 4. SQL — Joins & Merging Tables
 The 4 Join Types
 Code
@@ -103,7 +108,7 @@ Merging All 3 Tables (Real Project Example)
 Sql
 Aliases (s, p, c)
 Aliases are shorthand names for tables — they make queries readable:
-Sql
+
 5. SQL — Core Commands
 DDL — Define Structure
 Sql
@@ -134,6 +139,7 @@ Sql
 Comments in SQL
 Sql
 Rule: Comment every query you write. Your future self and teammates will thank you.
+
 6. SQL — Aggregation & Grouping
 Core Aggregate Functions
 Sql
@@ -143,12 +149,15 @@ HAVING — Filter After Grouping
 Sql
 Rule: If your condition uses SUM, COUNT, AVG etc. → use HAVING.
 If it filters raw values → use WHERE.
+
 7. SQL — Filtering
 WHERE Clause Conditions
 Sql
 ORDER BY & LIMIT
+
 Sql
 8. SQL — Advanced Queries
+
 CASE WHEN — IF/ELSE inside SQL
 Sql
 Subquery — A Query Inside a Query
@@ -157,6 +166,7 @@ CTE — Common Table Expression (Cleaner Subquery)
 Sql
 Window Functions — Calculations Across Rows
 Sql
+
 9. Power BI — DAX Formulas
 Basic Measures
 Dax
@@ -169,7 +179,7 @@ Dax
 Calculated Columns (Added to Table)
 Dax
 FILTER Function
-Dax
+
 10. Excel vs SQL vs DAX — Side by Side
 Task
 Excel
@@ -235,12 +245,14 @@ Replace text
 =SUBSTITUTE(A2,"/","-")
 REPLACE(col, '/', '-')
 SUBSTITUTE(col, "/", "-")
+
 11. KPI Formulas
 Standard Business KPIs
 Code
 Aviation-Specific KPIs
 Code
 Year-on-Year Growth
+
 Code
 12. Portfolio Projects
 Project 1 — Excel Sales Analytics (TS Academy)
@@ -266,6 +278,7 @@ Project 3 — Power BI Dashboard (Coming Soon)
 Tools: Power BI — DAX measures, slicers, drill-through, interactive dashboard
 Project 4 — SQL Airline Queries (Coming Soon)
 Tools: SQL Server — JOINs, CTEs, Window Functions, flight operations queries
+
 🔗 Connect
 GitHub: github.com/Luking007
 LinkedIn: linkedin.com/in/oyewo-lukman
